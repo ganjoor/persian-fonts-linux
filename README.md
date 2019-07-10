@@ -14,16 +14,21 @@ See http://fzerorubigd.github.com/persian-fonts-linux
 
 
 ```
-1) Vazir 2) FarsiFonts 3) BFonts 4) IranianSans 5) IranNastaliq 
-6) FPF 7) Lalezar 8) NotoNaskh 9) NotoKufi 10) XBZar 11) XBNilufar 
-12) XBKhoramshahr 13) XBKayhan 14) XBYaghout 15) XBRiyaz 16) XBRoya 17) XBShafigh 
-18) XBShafighKurd 19) XBShafighUzbek 20) XBShiraz 21) XBSols 22) XBTitr 23) XBTabriz 
-24) XBTraffic 25) XBVahid 26) XBVosta 27) XBYermook 28) XBYas 29) XBZiba 
-30) Tahoma 31) Samim 32) Shabnam 33) Sahel 34) VazirCode 35) Tanha 36) Nahid 37) Parastoo
+ 1) Vazir          11) XBNilufar       21) XBSols      31) Samim
+ 2) FarsiFonts     12) XBKhoramshahr   22) XBTitr      32) Shabnam
+ 3) BFonts         13) XBKayhan        23) XBTabriz    33) Sahel
+ 4) IranianSans    14) XBYaghout       24) XBTraffic   34) VazirCode
+ 5) IranNastaliq   15) XBRiyaz         25) XBVahid     35) Tanha
+ 6) FPF            16) XBRoya          26) XBVosta     36) Nahid
+ 7) Lalezar        17) XBShafigh       27) XBYermook   37) Parastoo
+ 8) NotoNaskh      18) XBShafighKurd   28) XBYas	    
+ 9) NotoKufi       19) XBShafighUzbek  29) XBZiba	    
+10) XBZar          20) XBShiraz        30) Tahoma
 ```
 
 ```
 38) All
+39) Quit
 ```
 
 ## Getting started
