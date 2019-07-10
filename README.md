@@ -30,7 +30,7 @@ usage: ./farsifont.sh
 
 ## Getting started
 
-In the TeX file, include:
+In the TeX file, include the following commands.
 
 ```
 \usepackage{xepersian}
@@ -39,7 +39,7 @@ In the TeX file, include:
 \setlatintextfont[Scale=1]{TeX Gyre Termes}
 ```
 
-Compile the TeX file:
+Compile the TeX file using `xelatex`.
 
 ```
 xelatex <TeX file>
