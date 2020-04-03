@@ -34,9 +34,7 @@ In the TeX file, include the following commands.
 
 ```
 \usepackage{xepersian}
-\usepackage{fontspec}
 \settextfont[Scale=1]{IranNastaliq}
-\setlatintextfont[Scale=1]{TeX Gyre Termes}
 ```
 
 Compile the TeX file using `xelatex`.
